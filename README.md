@@ -1,4 +1,4 @@
-HaSuite is a collection of tools for MapleStory.
+HaSuite is a collection of tools for MapleStory.  
 Note: This version only for old version of WZ file in order to use HaCreator's save to Map.Wz function.
 
 
